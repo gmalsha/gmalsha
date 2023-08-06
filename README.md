@@ -1,6 +1,6 @@
 ![MasterHead](https://th.bing.com/th/id/R.2543410cbd044e993e752fad5e69b137?rik=gKkQE6N9eip9wg&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Malsha Gunarathna</h1>
-<h3 align="center">A passionate Senior Software Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate coder with a love for innovation. </h3>
 <h4 align="center"> Let's build, learn, and innovate together! 💻🚀🌐</h4>
 <img align="right" alt="Coding" width="300" height ="200" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
